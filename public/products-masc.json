@@ -1,0 +1,74 @@
+{
+  "produtos": [
+    {
+        "id": 1,
+        "imagem": "homenss.jpg",
+        "nome": "Moletom Oversized Preto Streetwear",
+        "preco": 249.9,
+        "descricao": "Moletom escuro estilo streetwear, modelagem ampla para máximo conforto e estilo urbano."
+    },
+    {
+        "id": 2,
+        "imagem": "sirio-72wEr8REqCg-unsplash.jpg",
+        "nome": "Camiseta Preta Worry Free",
+        "preco": 129.9,
+        "descricao": "Camiseta preta de algodão com corte largo e estampa minimalista no peito."
+    },
+    {
+        "id": 3,
+        "imagem": "antoine-transon-3CIN7OxIABo-unsplash.jpg",
+        "nome": "Moletom Branco Osiris",
+        "preco": 199.9,
+        "descricao": "Moletom canguru branco clássico, ideal para dias mais frescos e looks casuais."
+    },
+    {
+        "id": 4,
+        "imagem": "garoto de jaqueta.jpg",
+        "nome": "Jaqueta Jeans Preta Destroyed",
+        "preco": 289.9,
+        "descricao": "Jaqueta jeans preta com detalhes desfiados, trazendo um toque rebelde e moderno ao visual."
+    },
+    {
+        "id": 5,
+        "imagem": "homem1b.jpg",
+        "nome": "Camiseta Oversized Alongada",
+        "preco": 139.9,
+        "descricao": "Camiseta preta de mangas levemente alongadas, perfeita para compor com correntes e acessórios."
+    },
+    {
+        "id": 6,
+        "imagem": "homem2.jpg",
+        "nome": "Blazer Casual Preto",
+        "preco": 399.9,
+        "descricao": "Blazer preto de corte desestruturado, ideal para misturar o estilo social com o despojado."
+    },
+    {
+        "id": 7,
+        "imagem": "homem2a.jpg",
+        "nome": "Casaco Preto com Forro Azul",
+        "preco": 359.9,
+        "descricao": "Casaco de inverno pesado com exterior preto elegante e interior azul vibrante."
+    },
+    {
+        "id": 8,
+        "imagem": "homem5.0.jpg",
+        "nome": "Suéter Bege Be Positive",
+        "preco": 179.9,
+        "descricao": "Suéter bege em moletinho leve, excelente para a meia-estação."
+    },
+    {
+        "id": 9,
+        "imagem": "homem7.jpg",
+        "nome": "Jaqueta Puffer Premium",
+        "preco": 599.9,
+        "descricao": "Jaqueta acolchoada de alta qualidade, garantindo isolamento térmico nos dias mais frios."
+    },
+    {
+        "id": 10,
+        "imagem": "homemvermelho.jpg",
+        "nome": "Suéter de Tricô Vermelho",
+        "preco": 219.9,
+        "descricao": "Suéter clássico em tricô vermelho vibrante, combinando estilo e aquecimento para o inverno."
+    }
+]
+}

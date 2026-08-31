@@ -1,0 +1,74 @@
+{
+  "produtos":[
+    {
+        "id": 1,
+        "imagem": "jack-son-wM-gyuTfgaU-unsplash.jpg",
+        "nome": "Jaqueta de Couro Oversized",
+        "preco": 349.9,
+        "descricao": "Jaqueta de couro preta estilo vintage, ideal para looks urbanos despojados."
+    },
+    {
+        "id": 2,
+        "imagem": "meninanaparede.jpg",
+        "nome": "Conjunto Social Branco",
+        "preco": 429.5,
+        "descricao": "Conjunto de alfaiataria branco com camisa de mangas bufantes e calça pantalona."
+    },
+    {
+        "id": 3,
+        "imagem": "meninanomar.jpg",
+        "nome": "Cachecol Felpudo Branco e Jaqueta",
+        "preco": 199.9,
+        "descricao": "Look de inverno com jaqueta preta acolchoada e cachecol branco longo e texturizado."
+    },
+    {
+        "id": 4,
+        "imagem": "meninanomar3.jpg",
+        "nome": "Casaco Puffer Preto",
+        "preco": 289.0,
+        "descricao": "Casaco puffer preto confortável e quente, perfeito para dias frios e ventosos."
+    },
+    {
+        "id": 5,
+        "imagem": "mulher4.jpg",
+        "nome": "Terno Cropped Feminino",
+        "preco": 459.9,
+        "descricao": "Conjunto de alfaiataria cinza com blazer cropped e calça de cintura alta."
+    },
+    {
+        "id": 6,
+        "imagem": "mulher6.jpg",
+        "nome": "Sobretudo Preto Clássico",
+        "preco": 519.0,
+        "descricao": "Sobretudo longo preto, peça chave para um guarda-roupa elegante de inverno."
+    },
+    {
+        "id": 7,
+        "imagem": "mulher8.jpg",
+        "nome": "Bolsa Transversal Vermelha",
+        "preco": 159.9,
+        "descricao": "Bolsa vermelha com textura de cobra e alça larga, estilo streetwear."
+    },
+    {
+        "id": 8,
+        "imagem": "mulher9.jpg",
+        "nome": "Coturno Preto Tratorado",
+        "preco": 229.9,
+        "descricao": "Bota estilo coturno preta, robusta e cheia de atitude para o dia a dia."
+    },
+    {
+        "id": 9,
+        "imagem": "mulherde jaquetadecouro.jpg",
+        "nome": "Jaqueta Biker Preta",
+        "preco": 319.9,
+        "descricao": "Jaqueta estilo biker em material sintético preto, um clássico versátil."
+    },
+    {
+        "id": 10,
+        "imagem": "2mulheres-alfaiataria.jpg",
+        "nome": "Conjunto Alfaiataria Cinza Claro",
+        "preco": 459.9,
+        "descricao": "Conjunto de duas peças em alfaiataria cinza claro, moderno e sofisticado."
+    }
+]
+}
